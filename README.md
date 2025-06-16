@@ -1,2 +1,2 @@
 # CSVSUF
-The code and dataset will be available soon here.
+The code will be available soon here.
