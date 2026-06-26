@@ -43,7 +43,7 @@ pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu11
 
 ## Datasets Preparation
 
-Download the preprocessed dataset: [Baidu Disk](https://pan.baidu.com/s/1cCFcY7DOoqDkd7xznREh4Q?pwd=js62) (code: js62) or [Google Drive](https://drive.google.com/file/d/1ZbhERL2UiBNa8_O1WoeyzlleaYI8gjwm/view?usp=sharing).
+Download the preprocessed dataset: [Baidu Disk](https://pan.baidu.com/s/1cCFcY7DOoqDkd7xznREh4Q?pwd=js62) (code: js62) or [Google Drive](https://drive.google.com/file/d/1ZbhERL2UiBNa8_O1WoeyzlleaYI8gjwm/view?usp=sharing). Then unzip and put the folder `datasets` into `CSVSUF/`. 
 
 The original dataset is from [HOT2024](https://www.hsitracking.com/).
 
