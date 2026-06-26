@@ -12,7 +12,7 @@ Spectral videos (SVs) capture spatio-temporal-spectral information from dynamic 
 
 **Architecture**
 
-![CSVSUF_v7](../../大修/画图/CSVSUF_v7.png)
+![CSVSUF_v7](assets/CSVSUF_v7.png)
 
 
 
